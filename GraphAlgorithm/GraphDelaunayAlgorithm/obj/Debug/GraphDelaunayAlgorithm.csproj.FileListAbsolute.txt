@@ -1,0 +1,14 @@
+C:\Users\xiaocai\Desktop\新建文件夹\Code\GraphAlgorithm\StartApp\GraphDelaunayAlgorithm.dll
+C:\Users\xiaocai\Desktop\新建文件夹\Code\GraphAlgorithm\StartApp\GraphDelaunayAlgorithm.pdb
+C:\Users\xiaocai\Desktop\新建文件夹\Code\GraphAlgorithm\GraphDelaunayAlgorithm\obj\Debug\GraphDelaunayAlgorithm.csprojAssemblyReference.cache
+C:\Users\xiaocai\Desktop\新建文件夹\Code\GraphAlgorithm\GraphDelaunayAlgorithm\obj\Debug\GraphDelaunaryCanvas.g.cs
+C:\Users\xiaocai\Desktop\新建文件夹\Code\GraphAlgorithm\GraphDelaunayAlgorithm\obj\Debug\GraphDelaunayAlgorithm_MarkupCompile.cache
+C:\Users\xiaocai\Desktop\新建文件夹\Code\GraphAlgorithm\GraphDelaunayAlgorithm\obj\Debug\GraphDelaunayAlgorithm_MarkupCompile.lref
+C:\Users\xiaocai\Desktop\新建文件夹\Code\GraphAlgorithm\GraphDelaunayAlgorithm\obj\Debug\GraphDelaunaryCanvas.baml
+C:\Users\xiaocai\Desktop\新建文件夹\Code\GraphAlgorithm\GraphDelaunayAlgorithm\obj\Debug\GraphDelaunayAlgorithm.g.resources
+C:\Users\xiaocai\Desktop\新建文件夹\Code\GraphAlgorithm\GraphDelaunayAlgorithm\obj\Debug\GraphDelaunayAlgorithm.Properties.Resources.resources
+C:\Users\xiaocai\Desktop\新建文件夹\Code\GraphAlgorithm\GraphDelaunayAlgorithm\obj\Debug\GraphDelaunayAlgorithm.csproj.GenerateResource.cache
+C:\Users\xiaocai\Desktop\新建文件夹\Code\GraphAlgorithm\GraphDelaunayAlgorithm\obj\Debug\GraphDelaunayAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\xiaocai\Desktop\新建文件夹\Code\GraphAlgorithm\GraphDelaunayAlgorithm\obj\Debug\GraphDelaunayAlgorithm.csproj.CopyComplete
+C:\Users\xiaocai\Desktop\新建文件夹\Code\GraphAlgorithm\GraphDelaunayAlgorithm\obj\Debug\GraphDelaunayAlgorithm.dll
+C:\Users\xiaocai\Desktop\新建文件夹\Code\GraphAlgorithm\GraphDelaunayAlgorithm\obj\Debug\GraphDelaunayAlgorithm.pdb
